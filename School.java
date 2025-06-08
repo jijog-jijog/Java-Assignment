@@ -14,5 +14,6 @@ public class School {
         School obj1 = new School();
         String result = obj1.passfail(mark);
         System.out.println(result);
+        
     }
 }
