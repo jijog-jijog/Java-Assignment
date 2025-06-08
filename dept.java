@@ -11,5 +11,6 @@ public class dept {
         System.out.println("My name is : " + A);
         System.out.println("My Score is : " + D + "/10");
         System.out.println("My Dept is : " + C);
+        
     }
 }
