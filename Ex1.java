@@ -8,6 +8,7 @@ public class Ex1 {
         System.out.print("Enter the number 2 : ");
         int B = scan.nextInt();
         for(int i=A;i<=B;i=i+1)
+            
         System.out.println(i);
     }
 }
