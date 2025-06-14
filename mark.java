@@ -9,6 +9,7 @@ public class mark {
             System.out.println("Need to improve");
         }else if(A>=50 && A<=70){
             System.out.println("Good Job");
+            
         }else if (A>70) {
             System.out.println("Excellent"); 
         }
